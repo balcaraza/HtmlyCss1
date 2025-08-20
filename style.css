@@ -14,3 +14,9 @@ body {
     color: #22D4FD;
     
 }
+.presentacion{
+    display: flex;
+    align-items: center;
+    margin: 5%;
+    justify-content: space-between;
+}
